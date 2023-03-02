@@ -1,1 +1,1 @@
-A simple recipe site that will demonstrate my skills in HTML.
+HTML project for theodinproject.com
