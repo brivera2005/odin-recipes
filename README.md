@@ -1,1 +1,1 @@
-HTML project for theodinproject.com
+HTML project for theodinproject.com demonstrating my HTML skills thus far!
